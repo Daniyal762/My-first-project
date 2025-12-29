@@ -1,1 +1,6 @@
-main.ry
+python
+
+film = input("Movie name: ")
+cinema = input("Cinema: ")
+time = input("Time: ")
+print(f"Ticket for {film} in {cinema} at {time} is booked.")
